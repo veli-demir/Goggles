@@ -1,5 +1,9 @@
 {
-  "version": "1.0",
+  "version": "1.0.0",
+  "name": "Güncel Türk Haber Siteleri",
+  "description": "Türkiye'deki önde gelen haber sitelerinden gelen içerikleri önceliklendirir.",
+  "creator": "Veli Demir",
+  "url": "https://github.com/veli-demir/Goggles/blob/main/googles_news_tr.json",
   "rules": [
     {"action": "boost", "url": "hurriyet.com.tr"},
     {"action": "boost", "url": "sozcu.com.tr"},
