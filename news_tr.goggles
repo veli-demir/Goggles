@@ -4,191 +4,191 @@
 ! author: Veli Demir
 
 rules:
-  - action: boost
+  - action: filter
     url: hurriyet.com.tr
-  - action: boost
+  - action: filter
     url: sozcu.com.tr
-  - action: boost
+  - action: filter
     url: milliyet.com.tr
-  - action: boost
+  - action: filter
     url: sabah.com.tr
-  - action: boost
+  - action: filter
     url: haberturk.com
-  - action: boost
+  - action: filter
     url: ntv.com.tr
-  - action: boost
+  - action: filter
     url: trthaber.com
-  - action: boost
+  - action: filter
     url: bbc.com/turkce
-  - action: boost
+  - action: filter
     url: yenisafak.com
-  - action: boost
+  - action: filter
     url: ahaber.com.tr
-  - action: boost
+  - action: filter
     url: cumhuriyet.com.tr
-  - action: boost
+  - action: filter
     url: superhaber.tv
-  - action: boost
+  - action: filter
     url: ensonhaber.com
-  - action: boost
+  - action: filter
     url: birgun.net
-  - action: boost
+  - action: filter
     url: evrensel.net
-  - action: boost
+  - action: filter
     url: t24.com.tr
-  - action: boost
+  - action: filter
     url: duvarenglish.com
-  - action: boost
+  - action: filter
     url: diken.com.tr
-  - action: boost
+  - action: filter
     url: odatv4.com
-  - action: boost
+  - action: filter
     url: karar.com
-  - action: boost
+  - action: filter
     url: turkiyegazetesi.com.tr
-  - action: boost
+  - action: filter
     url: aksam.com.tr
-  - action: boost
+  - action: filter
     url: star.com.tr
-  - action: boost
+  - action: filter
     url: yeniakit.com.tr
-  - action: boost
+  - action: filter
     url: cnnturk.com
-  - action: boost
+  - action: filter
     url: haberglobal.com.tr
-  - action: boost
+  - action: filter
     url: webrazzi.com
-  - action: boost
+  - action: filter
     url: haber7.com
-  - action: boost
+  - action: filter
     url: mynet.com
-  - action: boost
+  - action: filter
     url: tele1.com.tr
-  - action: boost
+  - action: filter
     url: tv100.com
-  - action: boost
+  - action: filter
     url: posta.com.tr
-  - action: boost
+  - action: filter
     url: sozcu18.com
-  - action: boost
+  - action: filter
     url: paraanaliz.com
-  - action: boost
+  - action: filter
     url: artigercek.com
-  - action: boost
+  - action: filter
     url: serbestiyet.com
-  - action: boost
+  - action: filter
     url: medyascope.tv
-  - action: boost
+  - action: filter
     url: gazeteduvar.com.tr
-  - action: boost
+  - action: filter
     url: haberler.com
-  - action: boost
+  - action: filter
     url: haber61.net
-  - action: boost
+  - action: filter
     url: kronos36.news
-  - action: boost
+  - action: filter
     url: odatv.com
-  - action: boost
+  - action: filter
     url: kartal24.com
-  - action: boost
+  - action: filter
     url: haber365.com.tr
-  - action: boost
+  - action: filter
     url: sondakika.com
-  - action: boost
+  - action: filter
     url: internethaber.com
-  - action: boost
+  - action: filter
     url: turktime.com
-  - action: boost
+  - action: filter
     url: aktifhaber.com
-  - action: boost
+  - action: filter
     url: sakaryayenihaber.com
-  - action: boost
+  - action: filter
     url: medyafaresi.com
-  - action: boost
+  - action: filter
     url: haberantalya.com
-  - action: boost
+  - action: filter
     url: karamanhaber.com
-  - action: boost
+  - action: filter
     url: dogruhaber.com.tr
-  - action: boost
+  - action: filter
     url: ekonomim.com
-  - action: boost
+  - action: filter
     url: borsagundem.com
-  - action: boost
+  - action: filter
     url: bigpara.com
-  - action: boost
+  - action: filter
     url: hurriyetemlak.com
-  - action: boost
+  - action: filter
     url: haberlerankara.com
-  - action: boost
+  - action: filter
     url: denizlihaber.com
-  - action: boost
+  - action: filter
     url: antalyaekspres.com
-  - action: boost
+  - action: filter
     url: ekovitrin.com
-  - action: boost
+  - action: filter
     url: borsadirekt.com
-  - action: boost
+  - action: filter
     url: samsunhaber.com
-  - action: boost
+  - action: filter
     url: rizedeyiz.com
-  - action: boost
+  - action: filter
     url: giresunhaberci.com
-  - action: boost
+  - action: filter
     url: orduolay.com
-  - action: boost
+  - action: filter
     url: haberay.com.tr
-  - action: boost
+  - action: filter
     url: bolgegundem.com
-  - action: boost
+  - action: filter
     url: yeniasir.com.tr
-  - action: boost
+  - action: filter
     url: egedesonsoz.com
-  - action: boost
+  - action: filter
     url: haber.tc
-  - action: boost
+  - action: filter
     url: edirnehaber.org
-  - action: boost
+  - action: filter
     url: sonhaber.com.tr
-  - action: boost
+  - action: filter
     url: haberlerimiz.com
-  - action: boost
+  - action: filter
     url: egehaber.com
-  - action: boost
+  - action: filter
     url: merhabahaber.com
-  - action: boost
+  - action: filter
     url: anadoluajansi.com.tr
-  - action: boost
+  - action: filter
     url: trhaber.com
-  - action: boost
+  - action: filter
     url: birhaber.net
-  - action: boost
+  - action: filter
     url: haberkaradeniz.net
-  - action: boost
+  - action: filter
     url: elazighaber.com
-  - action: boost
+  - action: filter
     url: haber20denizli.com
-  - action: boost
+  - action: filter
     url: haberci24.com
-  - action: boost
+  - action: filter
     url: sivashaberler.com
-  - action: boost
+  - action: filter
     url: igdirim76.com
-  - action: boost
+  - action: filter
     url: malatyagazetesi.com
-  - action: boost
+  - action: filter
     url: anadolupress.com
-  - action: boost
+  - action: filter
     url: bilecikhaber.com.tr
-  - action: boost
+  - action: filter
     url: bursadabugun.com
-  - action: boost
+  - action: filter
     url: eskisehirhaber.com
-  - action: boost
+  - action: filter
     url: malatyahaber.com
-  - action: boost
+  - action: filter
     url: nevsehirkenthaber.com
-  - action: boost
+  - action: filter
     url: kocaelihaber.com.tr
-  - action: boost
+  - action: filter
     url: izmirgundemi.net
